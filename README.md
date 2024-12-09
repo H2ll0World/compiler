@@ -1,4 +1,4 @@
-complier at hanyang university<!-- , lim -->prof) 임을규
+complier at hanyang university<!-- , lim --> profosser 임을규
 
 proj 1) lexical analysis 
 
